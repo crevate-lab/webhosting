@@ -1,0 +1,34 @@
+{
+  "advertise": [
+    {
+      "type": "ios",
+      "shoplist": [
+        {
+          "idx": "1", 
+          "url": "https://crevate.com/innocard/", 
+          "name":"Innocard"
+        },
+        {
+          "idx": "2", 
+          "url": "https://crevateschool.com/", 
+          "name":"Crevate School"
+        }
+      ]
+    },
+    {
+      "type": "android",
+      "shoplist": [
+        {
+          "idx": "1", 
+          "url": "https://crevate.com/innocard/", 
+          "name":"Innocard"
+        },
+        {
+          "idx": "2", 
+          "url": "https://crevateschool.com/", 
+          "name":"Crevate School"
+        }
+      ]
+    }
+  ]
+}
