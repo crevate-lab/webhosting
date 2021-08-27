@@ -3,11 +3,21 @@
     {
       "type": "ios",
       "shoplist": [
+        {
+          "idx": "1", 
+          "url": "https://apps.apple.com/us/app/meowtalk-cat-translator/id1524038030", 
+          "name":"MeowTalk"
+        }
       ]
     },
     {
       "type": "android",
       "shoplist": [
+        {
+          "idx": "1", 
+          "url": "https://play.google.com/store/apps/details?id=com.akvelon.meowtalk", 
+          "name":"MeowTalk"
+        }
       ]
     }
   ]
