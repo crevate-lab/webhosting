@@ -9,7 +9,7 @@ Pro version 앱 마켓주소
 Pro version 앱 마켓주소
 
 ## petbotcat.json
-광고 목록
+Petbot 고양이 선택시 광고 목록
 
 ## petbotdog.json
-광고 목록
+Petbot 개 선택시 광고 목록
