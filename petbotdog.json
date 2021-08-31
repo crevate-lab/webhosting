@@ -27,6 +27,11 @@
           "idx": "2", 
           "url": "https://crevateschool.com/", 
           "name":"Crevate School"
+        },
+        {
+          "idx": "3", 
+          "url": "https://crevate.com/", 
+          "name":"Crevate"
         }
       ]
     }
